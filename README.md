@@ -36,11 +36,8 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 <!-- ![xxx](SSL4TS_taxonomy.jpg) -->
 <img src="SSL4TS_taxonomy.jpg" width=900 align=middle> <br />
 
-<!-- ![xxx](generative_ssl4ts.jpg) -->
-<img src="generative_ssl4ts.jpg" width=400 align=middle> <br />
-
-<!-- ![xxx](adversarial_ssl4ts.jpg) -->
-<img src="adversarial_ssl4ts.jpg" width=400 align=middle> <br />
+<!-- ![xxx](generative_adversarial_ssl4ts.jpg) -->
+<img src="generative_adversarial_ssl4ts.jpg" width=900 align=middle> <br />
 
 <!-- ![xxx](contrastive_ssl4ts.jpg) -->
 <img src="contrastive_ssl4ts.jpg" width=900 align=middle> <br />
