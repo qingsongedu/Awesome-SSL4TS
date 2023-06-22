@@ -36,6 +36,16 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 <!-- ![xxx](SSL4TS_taxonomy.jpg) -->
 <img src="SSL4TS_taxonomy.jpg" width=900 align=middle> <br />
 
+<!-- ![xxx](generative_ssl4ts.jpg) -->
+<img src="generative_ssl4ts.jpg" width=400 align=middle> <br />
+
+<!-- ![xxx](adversarial_ssl4ts.jpg) -->
+<img src="adversarial_ssl4ts.jpg" width=400 align=middle> <br />
+
+<!-- ![xxx](contrastive_ssl4ts.jpg) -->
+<img src="contrastive_ssl4ts.jpg" width=900 align=middle> <br />
+
+
 
 ## Category of Self-Supervised Learning for Time Series
 
@@ -81,6 +91,7 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 ## Self-Supervised Learning Tutorial/Survey in Other Disciplines
 * A cookbook of self-supervised learning, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.12210)
+* Self-supervised Learning: Generative or Contrastive, in *TKDE* 2021. [\[paper\]](https://arxiv.org/abs/2006.08218)
 
 
 
