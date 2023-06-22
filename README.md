@@ -33,8 +33,8 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 ```
 
 ## Taxonomy of Self-Supervised Learning for Time Series
-<!-- ![xxx](newtaxonomynum.jpg) -->
-<img src="newtaxonomynum.jpg" width=700 align=middle> <br />
+<!-- ![xxx](SSL4TS_taxonomy.jpg) -->
+<img src="SSL4TS_taxonomy" width=700 align=middle> <br />
 
 
 ## Category of Self-Supervised Learning for Time Series
