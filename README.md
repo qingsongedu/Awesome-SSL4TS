@@ -76,8 +76,14 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 * WADI:
 
 ### AAA
-|Dataset|Size|Dimension|Source|Comment|
-|:---:|:---:|:---:|:---:|:---:|
+|Dataset|Size|Dimension|Source|Link|Comment|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|PSM|132,481 / 87,841|26|[Paper]|[link](https://github.com/eBay/RANSynCoders)|AnRa: 27.80%|
+|SMD|708,405 / 708,405|||||
+|MSL|58,317 / 73,729|||||
+|SMAP||||||
+|SWaT||||||
+|WADI||||||
 #### Anomaly Detection
 * ETT:
 * Wind:
