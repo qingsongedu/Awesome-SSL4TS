@@ -76,22 +76,26 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 |SMAP|135,183 / 427,617|25|[paper](https://dl.acm.org/doi/10.1145/3219819.3219845)|[link](https://github.com/khundman/telemanom)|AnRa: 13.13%|
 |SWaT|475,200 / 449,919|51|[paper](https://link.springer.com/chapter/10.1007/978-3-319-71368-7_8)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 12.98%|
 |WADI|1,048,571 / 172,801|103|[paper](https://dl.acm.org/doi/10.1145/3055366.3055375)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 5.99%|
+
 #### Forecasting
 |Dataset|Size|Dimension|Source|Link|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|ETTh|17,420||
-|ETTm|69,680||
-|Wind|10,957||
-|Electricity|26,304|}
-|ILI|966||
-|Weather|52,696||
-|Traffic|17,544||
-|Exchange|7,588||
-|Solar|52,560||
+|ETTh|17,420|7|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17325)|[link](https://github.com/zhouhaoyi/ETDataset)|SaIn: 1h|
+|ETTm|69,680|7|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17325)|[link](https://github.com/zhouhaoyi/ETDataset)|SaIn: 15min|
+|Wind|10,957|28|*Non*|[link](https://www.kaggle.com/datasets/sohier/30-years-of-european-wind-generation)|SaIn: 1day|
+|Electricity|26,304|321|*Non*|[link](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014)|SaIn: 1hour|
+|ILI|966|7|*Non*|[link](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)|SaIn: 1weak|
+|Weather|52,696|21|*Non*|[link](https://www.bgc-jena.mpg.de/wetter/)|SaIn: 10min|
+|Traffic|17,544|862|*Non*|[link](http://pems.dot.ca.gov/)|SaIn: 1hour|
+|Exchange|7,588|8|[paper](https://dl.acm.org/doi/abs/10.1145/3209978.3210006)|[link](https://github.com/laiguokun/LSTNet)|SaIn: 1day|
+|Solar|52,560|137|*Non*|[link](https://www.nrel.gov/grid/solar-power-data.html)|SaIn: 10min|
+
 #### Classification and Clustering
-* HAR
-* UCR 128:
-* UEA 30:
+|Dataset|Size|Dimension|Source|Link|Comment|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|HAR|17,3056 / 173,056|9|[paper]()|[link]()||
+|UCR 130|128*M|1|[paper]()|[link]()||
+|UEA 30|30*M|D|[paper]()|[link]()||
 
 
 
