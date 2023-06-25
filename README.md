@@ -68,8 +68,25 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 ## Applications and Datasets on SSL4TS
 #### Forecasting
+* PSM: Practical approach to asynchronous multivariate time series anomaly detection and localization, in *KDD* 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174) [[link]](https://github.com/eBay/RANSynCoders)
+* SMD: 
+* MSL: 
+* SMAP: 
+* SWaT: 
+* WADI: 
 #### Anomaly Detection
+* ETT:
+* Wind:
+* Electricity:
+* ILI:
+* Weather:
+* Traffic:
+* Exchange:
+* Solar:
 #### Classification and Clustering
+* HAR
+* UCR 128:
+* UEA 30:
 
 
 
