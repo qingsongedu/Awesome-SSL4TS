@@ -68,22 +68,14 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 ## Applications and Datasets on SSL4TS
 #### Forecasting
-* PSM: Practical approach to asynchronous multivariate time series anomaly detection and localization, in *KDD* 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174) [[link]](https://github.com/eBay/RANSynCoders)
-* SMD: 
-* MSL: 
-* SMAP: 
-* SWaT: 
-* WADI:
-
-### AAA
 |Dataset|Size|Dimension|Source|Link|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|PSM|132,481 / 87,841|26|[Paper]|[link](https://github.com/eBay/RANSynCoders)|AnRa: 27.80%|
-|SMD|708,405 / 708,405|||||
-|MSL|58,317 / 73,729|||||
-|SMAP||||||
-|SWaT||||||
-|WADI||||||
+|PSM|132,481 / 87,841|26|[paper](https://dl.acm.org/doi/10.1145/3447548.3467174)|[link](https://github.com/eBay/RANSynCoders)|AnRa: 27.80%|
+|SMD|708,405 / 708,405|38|[paper]|[link]|AnRa: 4.16%|
+|MSL|58,317 / 73,729|55|[paper]|[link]|AnRa: 10.72%|
+|SMAP|135,183 / 427,617|25|[paper]|[link]|AnRa: 13.13%|
+|SWaT|475,200 / 449,919|51|[paper]|[link]|AnRa: 12.98%|
+|WADI|1,048,571 / 172,801|103|[paper]|[link]|AnRa: 5.99%|
 #### Anomaly Detection
 * ETT:
 * Wind:
