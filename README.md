@@ -67,15 +67,15 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 
 ## Applications and Datasets on SSL4TS
-#### Forecasting
+#### Anomaly Detection
 |Dataset|Size|Dimension|Source|Link|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |PSM|132,481 / 87,841|26|[paper](https://dl.acm.org/doi/10.1145/3447548.3467174)|[link](https://github.com/eBay/RANSynCoders)|AnRa: 27.80%|
-|SMD|708,405 / 708,405|38|[paper]|[link]|AnRa: 4.16%|
-|MSL|58,317 / 73,729|55|[paper]|[link]|AnRa: 10.72%|
-|SMAP|135,183 / 427,617|25|[paper]|[link]|AnRa: 13.13%|
-|SWaT|475,200 / 449,919|51|[paper]|[link]|AnRa: 12.98%|
-|WADI|1,048,571 / 172,801|103|[paper]|[link]|AnRa: 5.99%|
+|SMD|708,405 / 708,405|38|[paper](https://dl.acm.org/doi/10.1145/3292500.3330672)|[link](https://github.com/NetManAIOps/OmniAnomaly)|AnRa: 4.16%|
+|MSL|58,317 / 73,729|55|[paper](https://dl.acm.org/doi/10.1145/3219819.3219845)|[link](https://github.com/khundman/telemanom)|AnRa: 10.72%|
+|SMAP|135,183 / 427,617|25|[paper](https://dl.acm.org/doi/10.1145/3219819.3219845)|[link](https://github.com/khundman/telemanom)|AnRa: 13.13%|
+|SWaT|475,200 / 449,919|51|[paper](https://link.springer.com/chapter/10.1007/978-3-319-71368-7_8)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 12.98%|
+|WADI|1,048,571 / 172,801|103|[paper](https://dl.acm.org/doi/10.1145/3055366.3055375)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 5.99%|
 #### Anomaly Detection
 * ETT:
 * Wind:
