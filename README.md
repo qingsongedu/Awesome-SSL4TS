@@ -92,10 +92,10 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 #### Classification and Clustering
 |Dataset|Size|Dimension|Source|Link|Comment|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|HAR|17,3056 / 173,056|9|[paper]()|[link]()||
-|UCR 130|128*M|1|[paper]()|[link]()||
-|UEA 30|30*M|D|[paper]()|[link]()||
+|:---:|:---:|:---:|:---:|:---:|:---|
+|HAR|17,3056 / 173,056|9|[paper](https://web.archive.org/web/20210506171341id_/https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-84.pdf)|[link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)|Classes: 6|
+|UCR 130|128*M|1|[paper](https://arxiv.org/pdf/1810.07758.pdf)|[link](https://www.cs.ucr.edu/~eamonn/time_series_data/)|N/A|
+|UEA 30|30*M|D|[paper](https://arxiv.org/abs/1811.00075)|[link](https://www.timeseriesclassification.com/)|N/A|
 
 
 
