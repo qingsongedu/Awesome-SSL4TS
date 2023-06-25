@@ -73,7 +73,9 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 * MSL: 
 * SMAP: 
 * SWaT: 
-* WADI: 
+* WADI:
+|Dataset|Size|Dimension|Source|Comment|
+|:---:|:---:|:---:|:---:|:---:|
 #### Anomaly Detection
 * ETT:
 * Wind:
