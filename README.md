@@ -69,7 +69,7 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 ## Applications and Datasets on SSL4TS
 #### Anomaly Detection
 |Dataset|Size|Dimension|Source|Link|Comment|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---|
 |PSM|132,481 / 87,841|26|[paper](https://dl.acm.org/doi/10.1145/3447548.3467174)|[link](https://github.com/eBay/RANSynCoders)|AnRa: 27.80%|
 |SMD|708,405 / 708,405|38|[paper](https://dl.acm.org/doi/10.1145/3292500.3330672)|[link](https://github.com/NetManAIOps/OmniAnomaly)|AnRa: 4.16%|
 |MSL|58,317 / 73,729|55|[paper](https://dl.acm.org/doi/10.1145/3219819.3219845)|[link](https://github.com/khundman/telemanom)|AnRa: 10.72%|
@@ -79,7 +79,7 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 #### Forecasting
 |Dataset|Size|Dimension|Source|Link|Comment|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---|
 |ETTh|17,420|7|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17325)|[link](https://github.com/zhouhaoyi/ETDataset)|SaIn: 1h|
 |ETTm|69,680|7|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17325)|[link](https://github.com/zhouhaoyi/ETDataset)|SaIn: 15min|
 |Wind|10,957|28|*Non*|[link](https://www.kaggle.com/datasets/sohier/30-years-of-european-wind-generation)|SaIn: 1day|
