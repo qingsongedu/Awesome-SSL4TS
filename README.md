@@ -76,15 +76,18 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 |SMAP|135,183 / 427,617|25|[paper](https://dl.acm.org/doi/10.1145/3219819.3219845)|[link](https://github.com/khundman/telemanom)|AnRa: 13.13%|
 |SWaT|475,200 / 449,919|51|[paper](https://link.springer.com/chapter/10.1007/978-3-319-71368-7_8)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 12.98%|
 |WADI|1,048,571 / 172,801|103|[paper](https://dl.acm.org/doi/10.1145/3055366.3055375)|[link](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)|AnRa: 5.99%|
-#### Anomaly Detection
-* ETT:
-* Wind:
-* Electricity:
-* ILI:
-* Weather:
-* Traffic:
-* Exchange:
-* Solar:
+#### Forecasting
+|Dataset|Size|Dimension|Source|Link|Comment|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|ETTh|17,420||
+|ETTm|69,680||
+|Wind|10,957||
+|Electricity|26,304|}
+|ILI|966||
+|Weather|52,696||
+|Traffic|17,544||
+|Exchange|7,588||
+|Solar|52,560||
 #### Classification and Clustering
 * HAR
 * UCR 128:
