@@ -62,21 +62,20 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 - Practical approach to asynchronous multivariate time series anomaly detection and localization, in KDD, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174)
 - Learning representations for time series clustering, in NeurIPS, 2019. [\[paper\]](https://papers.nips.cc/paper_files/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)
 - USAD: Unsupervised anomaly detection on multivariate time series, in KDD, 2020 [\[paper\]](https://dl.acm.org/doi/10.1145/3394486.3403392)
-- Learning sparse latent graph representations for anomaly detection in multivariate time series,
-- Wind turbine fault detection using a denoising autoencoder with temporal information, 
-- Denoising temporal convolutional recurrent autoencoders for time series classification, in Information Sciences, 2022.
-- Pre-training enhanced spatial-temporal graph neural network for multivariate time series forecasting, 
-- A transformer-based framework for multivariate time series representation learning, in KDD, 2021.
-- Multi-variate time series forecasting on variable subsets, in KDD, 2022.
-- TARNet: Task-aware reconstruction for time-series transformer, in KDD, 2022.
-- Learning latent seasonal-trend representations for time series forecasting, in NeurIPS, 2022.
-- Multivariate time series anomaly detection and interpretation using hierarchical inter-metric and temporal embedding, in KDD, 2021.
-- Robust anomaly detection for multivariate time series through stochastic recurrent neural network, in KDD, 2019.
-- GRELEN: Multivariate time series anomaly detection from the perspective of graph relational learning, in 
-- Deep variational graph convolutional recurrent network for multivariate time series anomaly detection,
-- Multi-time attention networks for irregularly sampled time series,
-- Heteroscedastic temporal variational autoencoder for irregularly sampled time series, 
-- Learning from irregularly-sampled time series: A missing data perspective, in ICML, 2020.
+- Learning sparse latent graph representations for anomaly detection in multivariate time series, in KDD, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539117)
+- Wind turbine fault detection using a denoising autoencoder with temporal information, in IEEE/ASME Transactions on Mechatronics, 2018 [\[paper\]](https://ieeexplore.ieee.org/document/8059861)
+- Denoising temporal convolutional recurrent autoencoders for time series classification, in Information Sciences, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0020025521012822)
+- Pre-training enhanced spatial-temporal graph neural network for multivariate time series forecasting, in KDD, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539396)
+- A transformer-based framework for multivariate time series representation learning, in KDD, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467401)
+- Multi-variate time series forecasting on variable subsets, in KDD, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539394)
+- TARNet: Task-aware reconstruction for time-series transformer, in KDD, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3534678.3539329)
+- Learning latent seasonal-trend representations for time series forecasting, in NeurIPS, 2022. [\[paper\]](https://papers.nips.cc/paper_files/paper/2022/hash/fd6613131889a4b656206c50a8bd7790-Abstract-Conference.html) [\[repo\]](https://github.com/zhycs/LaST)
+- Multivariate time series anomaly detection and interpretation using hierarchical inter-metric and temporal embedding, in KDD, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467075)
+- Robust anomaly detection for multivariate time series through stochastic recurrent neural network, in KDD, 2019. [\[paper\]](https://dl.acm.org/doi/10.1145/3292500.3330672)
+- GRELEN: Multivariate time series anomaly detection from the perspective of graph relational learning, in IJCAI, 2022. [\[paper\]](https://www.ijcai.org/proceedings/2022/332)
+- Deep variational graph convolutional recurrent network for multivariate time series anomaly detection, in ICML, 2022. [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html)
+- Heteroscedastic temporal variational autoencoder for irregularly sampled time series, in ICLR, 2022. [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3)
+- Learning from irregularly-sampled time series: A missing data perspective, in ICML, 2020. [\[paper\]](https://arxiv.org/abs/2008.07599)
 
 #### Diffusion-based generation
 
