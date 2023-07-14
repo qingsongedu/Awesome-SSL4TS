@@ -49,16 +49,43 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 ### Generative-based Methods on SSL4TS
 #### Autoregressive-based forecasting
 
-- Timeseries anomaly detection using temporal hierarchical one-class network, NeurIPS2020.
-- Self-supervised transformer for sparse and irregularly sampled multivariate clinical time-series,
-- Graph neural network-based anomaly detection in multivariate time series, AAAI
-- Semisupervised time series classification model with self-supervised learning,
+- Timeseries anomaly detection using temporal hierarchical one-class network, in NeurIPS, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.5555/3495724.3496816)
+- Self-supervised transformer for sparse and irregularly sampled multivariate clinical time-series, in ACM Transactions on Knowledge Discovery from Data, 2022. [\[paper\]](https://dl.acm.org/doi/10.1145/3516367)
+- Graph neural network-based anomaly detection in multivariate time series, in AAAI, 2021. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16523)
+- Semisupervised time series classification model with self-supervised learning, in Engineering Applications of Artificial Intelligence, 2022. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0952197622003633)
 
 #### Autoencoder-based reconstruction
 
-- xxx
+- TimeNet: Pre-trained deep recurrent neural network for time series classification, in arXiv, 2017. [\[paper\]](https://arxiv.org/abs/1706.08838)
+- Unsupervised pre-training of a deep LSTM-based stacked autoencoder for multivariate time series forecasting problems, in Scientific Reports, 2019. [\[paper\]](https://www.nature.com/articles/s41598-019-55320-6)
+- Autowarp: Learning a warping distance from unlabeled time series using sequence autoencoders, in NeurIPS, 2018. [\[paper\]](https://dl.acm.org/doi/10.5555/3327546.3327715)
+- Practical approach to asynchronous multivariate time series anomaly detection and localization, in KDD, 2021. [\[paper\]](https://dl.acm.org/doi/10.1145/3447548.3467174)
+- Learning representations for time series clustering, in NeurIPS, 2019. [\[paper\]](https://papers.nips.cc/paper_files/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)
+- USAD: Unsupervised anomaly detection on multivariate time series, in KDD, 2020 [\[paper\]](https://dl.acm.org/doi/10.1145/3394486.3403392)
+- Learning sparse latent graph representations for anomaly detection in multivariate time series,
+- Wind turbine fault detection using a denoising autoencoder with temporal information, 
+- Denoising temporal convolutional recurrent autoencoders for time series classification, in Information Sciences, 2022.
+- Pre-training enhanced spatial-temporal graph neural network for multivariate time series forecasting, 
+- A transformer-based framework for multivariate time series representation learning, in KDD, 2021.
+- Multi-variate time series forecasting on variable subsets, in KDD, 2022.
+- TARNet: Task-aware reconstruction for time-series transformer, in KDD, 2022.
+- Learning latent seasonal-trend representations for time series forecasting, in NeurIPS, 2022.
+- Multivariate time series anomaly detection and interpretation using hierarchical inter-metric and temporal embedding, in KDD, 2021.
+- Robust anomaly detection for multivariate time series through stochastic recurrent neural network, in KDD, 2019.
+- GRELEN: Multivariate time series anomaly detection from the perspective of graph relational learning, in 
+- Deep variational graph convolutional recurrent network for multivariate time series anomaly detection,
+- Multi-time attention networks for irregularly sampled time series,
+- Heteroscedastic temporal variational autoencoder for irregularly sampled time series, 
+- Learning from irregularly-sampled time series: A missing data perspective, in ICML, 2020.
 
 #### Diffusion-based generation
+
+- Generative modeling by estimating gradients of the data distribution, 
+- CSDI: Conditional score-based diffusion models for probabilistic time series imputation,
+- Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting,
+- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in
+- Diffload: Uncertainty quantification in load forecasting with diffusion model, 
+- Diffusion-based time series imputation and forecasting with structured state space models,
 
 ### Contrastive-based Methods on SSL4TS
 #### Sampling contrast
