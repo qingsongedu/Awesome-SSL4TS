@@ -48,9 +48,15 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 ### Generative-based Methods on SSL4TS
 #### Autoregressive-based forecasting
+
 - Timeseries anomaly detection using temporal hierarchical one-class network, NeurIPS2020.
+- Self-supervised transformer for sparse and irregularly sampled multivariate clinical time-series,
+- Graph neural network-based anomaly detection in multivariate time series, AAAI
+- Semisupervised time series classification model with self-supervised learning,
 
 #### Autoencoder-based reconstruction
+
+- xxx
 
 #### Diffusion-based generation
 
