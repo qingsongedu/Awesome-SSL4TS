@@ -47,6 +47,9 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 ## Category of Self-Supervised Learning for Time Series
 
 ### Generative-based Methods on SSL4TS
+
+In this category, the pretext task is to generate the expected data based on a given view of the data. In the context of time series modeling, the commonly used pretext tasks include using the past series to forecast the future windows or specific time stamps, using the encoder and decoder to reconstruct the input, and forecasting the unseen part of the masked time series. This section sorts out the existing self-supervised representation learning methods in time series modeling from the perspectives of autoregressive-based forecasting, autoencoder-based reconstruction, and diffusion-based generation. It should be noted that autoencoder-based reconstruction task is also viewed as an unsupervised framework. In the context of SSL, we mainly use the reconstruction task as a pretext task, and the final goal is to obtain the representations through autoencoder models. The illustration of the generative-based SSL for time series is shown in Fig. 3.
+
 #### Autoregressive-based forecasting
 
 - Timeseries anomaly detection using temporal hierarchical one-class network, in NeurIPS, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.5555/3495724.3496816)
@@ -79,23 +82,31 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 
 #### Diffusion-based generation
 
-- Generative modeling by estimating gradients of the data distribution, 
-- CSDI: Conditional score-based diffusion models for probabilistic time series imputation,
-- Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting,
-- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in
-- Diffload: Uncertainty quantification in load forecasting with diffusion model, 
-- Diffusion-based time series imputation and forecasting with structured state space models,
+- CSDI: Conditional score-based diffusion models for probabilistic time series imputation, in NeurIPS, 2021. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html)
+- Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting, in ICML, 2021. [\[paper\]](https://icml.cc/virtual/2021/poster/8591)
+- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in arXiv, 2023. [\[paper\]](https://arxiv.org/abs/2301.13629)
+- Diffload: Uncertainty quantification in load forecasting with diffusion model, in arXiv, 2023. [\[paper\]](https://arxiv.org/abs/2306.01001)
+- Diffusion-based time series imputation and forecasting with structured state space models, in Transactions on Machine Learning Research, 2022. [\[paper\]](https://openreview.net/forum?id=hHiIbk7ApW)
 
 ### Contrastive-based Methods on SSL4TS
+Contrastive learning is a widely used self-supervised learning strategy, showing a strong learning ability in computer vision and natural language processing. Unlike discriminative models that learn a mapping rule to true labels and generative models that try to reconstruct inputs, contrastive-based methods aim to learn data representations by contrasting between positive and negative samples. Specifically, positive samples should have similar representations, while negative samples have different representations. Therefore, the selection of positive samples and negative samples is very important to contrastive-based methods. This section sorts out and summarizes the existing contrastive-based methods in time series modeling according to the selection of positive and negative samples. The illustration of the contrastive-based SSL for time series is shown in Fig. 4.
+
 #### Sampling contrast
+
 #### Prediction contrast
+
 #### Augmentation contrast
+
 #### Prototype contrast
+
 #### Expert knowledge contrast
 
 ### Adversarial-based Methods on SSL4TS
+Adversarial-based self-supervised representation learning methods utilize generative adversarial networks (GANs) to construct pretext tasks. GAN contains a generator $\mathcal{G}$ and a discriminator $\mathcal{D}$. The generator $\mathcal{G}$ is responsible for generating synthetic data similar to real data, while the discriminator $\mathcal{D}$ is responsible for determining whether the generated data is real data or synthetic data. Therefore, the goal of the generator is to maximize the decision failure rate of the discriminator, and the goal of the discriminator is to minimize its failure rate. According to the final task, the existing adversarial-based representation learning methods can be divided into time series generation and imputation, and auxiliary representation enhancement. The illustration of the adversarial-based SSL for time series is shown in Fig. 5.
+
 
 #### Time series generation and imputation
+
 #### Auxiliary representation enhancement
 
 
