@@ -124,10 +124,10 @@ Contrastive learning is a widely used self-supervised learning strategy, showing
 - Self-supervised contrastive representation learning for semi-supervised time-series classification, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2208.06616)
 
 #### Prototype contrast
-- Li, G., Choi, B., Xu, J., Bhowmick, S. S., Chun, K. P., & Wong, G. L. H. (2021, May). Shapenet: A shapelet-neural network approach for multivariate time series classification. In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 9, pp. 8375-8383). [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
-- Zhang, X., Gao, Y., Lin, J., & Lu, C. T. (2020, April). Tapnet: Multivariate time series classification with attentional prototypical network. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 04, pp. 6845-6852). [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/6165)
-- Dorle, A., Li, F., Song, W., & Li, S. (2020, October). Learning discriminative virtual sequences for time series classification. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (pp. 2001-2004). [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412099)
-- Meng, Q., Qian, H., Liu, Y., Cui, L., Xu, Y., & Shen, Z. (2023, June). MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 8, pp. 9153-9161). [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/26098)
+- Shapenet: A shapelet-neural network approach for multivariate time series classification, in *AAAI*, 2021. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
+- Tapnet: Multivariate time series classification with attentional prototypical network, in *AAAI*, 2020. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/6165)
+- Learning discriminative virtual sequences for time series classification, in *CIKM*, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412099)
+- MHCCL: Masked Hierarchical Cluster-Wise Contrastive Learning for Multivariate Time Series, in *AAAI*, 2023. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/26098)
 
 #### Expert knowledge contrast
 - Self-supervised pre-training for time series classification, in *IJCNN*, 2021. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9533426)
