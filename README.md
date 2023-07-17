@@ -97,14 +97,14 @@ Contrastive learning is a widely used self-supervised learning strategy, showing
 - Neighborhood contrastive learning applied to online patient monitoring, in *ICML*, 2021. [\[paper\]](http://proceedings.mlr.press/v139/yeche21a.html)
 
 #### Prediction contrast
-- Oord, Aaron van den, Yazhe Li, and Oriol Vinyals. "Representation learning with contrastive predictive coding." arXiv preprint arXiv:1807.03748 (2018). [\[paper\]](https://arxiv.org/abs/1807.03748)
-- Schneider, Tim, et al. "Detecting anomalies within time series using local neural transformations." arXiv preprint arXiv:2202.03944 (2022). [\[paper\]](https://arxiv.org/abs/2202.03944)
-- Pranavan, Theivendiram, et al. "Contrastive predictive coding for anomaly detection in multi-variate time series data." arXiv preprint arXiv:2202.03639 (2022). [\[paper\]](https://arxiv.org/abs/2202.03639)
-- Deldari, S., Smith, D. V., Xue, H., & Salim, F. D. (2021, April). Time series change point detection with self-supervised contrastive predictive coding. In Proceedings of the Web Conference 2021 (pp. 3124-3135). [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3442381.3449903)
-- Zhang, Kexin, et al. "Time Series Anomaly Detection using Skip-Step Contrastive Predictive Coding." NeurIPS 2022 Workshop: Self-Supervised Learning-Theory and Practice. 2022. [\[paper\]](https://sslneurips22.github.io/paper_pdfs/paper_19.pdf)
-- Hou, M., Xu, C., Liu, Y., Liu, W., Bian, J., Wu, L., ... & Liu, T. Y. (2021, October). Stock trend prediction with multi-granularity data: A contrastive learning approach with adaptive fusion. In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (pp. 700-709). [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482483)
-- Eldele, Emadeldeen, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, Xiaoli Li, and Cuntai Guan. "Time-series representation learning via temporal and contextual contrasting." arXiv preprint arXiv:2106.14112 (2021). [\[paper\]](https://arxiv.org/abs/2106.14112)
-- Eldele, E., Ragab, M., Chen, Z., Wu, M., Kwoh, C. K., Li, X., & Guan, C. (2022). Self-supervised contrastive representation learning for semi-supervised time-series classification. arXiv preprint arXiv:2208.06616. [\[paper\]](https://arxiv.org/abs/2208.06616)
+- Representation learning with contrastive predictive coding, in *arXiv*, 2018. [\[paper\]](https://arxiv.org/abs/1807.03748)
+- Detecting anomalies within time series using local neural transformations, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2202.03944)
+- Contrastive predictive coding for anomaly detection in multi-variate time series data, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2202.03639)
+- Time series change point detection with self-supervised contrastive predictive coding, in *WWW*, 2021. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3442381.3449903)
+- Time Series Anomaly Detection using Skip-Step Contrastive Predictive Coding,  in *NeurIPS Workshop: Self-Supervised Learning-Theory and Practice*, 2022. [\[paper\]](https://sslneurips22.github.io/paper_pdfs/paper_19.pdf)
+- Stock trend prediction with multi-granularity data: A contrastive learning approach with adaptive fusion, in *CIKM*, 2021. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482483)
+- Time-series representation learning via temporal and contextual contrasting, in *IJCAI*, 2021. [\[paper\]](https://www.ijcai.org/proceedings/2021/324)
+- Self-supervised contrastive representation learning for semi-supervised time-series classification, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2208.06616)
 
 
 #### Augmentation contrast
