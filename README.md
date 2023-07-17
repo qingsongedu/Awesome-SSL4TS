@@ -84,9 +84,13 @@ In this category, the pretext task is to generate the expected data based on a g
 
 - CSDI: Conditional score-based diffusion models for probabilistic time series imputation, in *NeurIPS*, 2021. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html)
 - Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting, in *ICML*, 2021. [\[paper\]](https://icml.cc/virtual/2021/poster/8591)
-- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2301.13629)
-- Diffload: Uncertainty quantification in load forecasting with diffusion model, in arXiv, 2023. [\[paper\]](https://arxiv.org/abs/2306.01001)
+- Generative time series forecasting with diffusion, denoise, and disentanglement, in *NeurIPS*, 2022. [\[paper\]](https://openreview.net/forum?id=rG0jm74xtx)
+- ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00754)
 - Diffusion-based time series imputation and forecasting with structured state space models, in *Transactions on Machine Learning Research*, 2022. [\[paper\]](https://openreview.net/forum?id=hHiIbk7ApW)
+- Diffload: Uncertainty quantification in load forecasting with diffusion model, in arXiv, 2023. [\[paper\]](https://arxiv.org/abs/2306.01001)
+- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2301.13629)
+
+
 
 ### Contrastive-based Methods on SSL4TS
 Contrastive learning is a widely used self-supervised learning strategy, showing a strong learning ability in computer vision and natural language processing. Unlike discriminative models that learn a mapping rule to true labels and generative models that try to reconstruct inputs, contrastive-based methods aim to learn data representations by contrasting between positive and negative samples. Specifically, positive samples should have similar representations, while negative samples have different representations. Therefore, the selection of positive samples and negative samples is very important to contrastive-based methods. This section sorts out and summarizes the existing contrastive-based methods in time series modeling according to the selection of positive and negative samples. The illustration of the contrastive-based SSL for time series is shown in Fig. 4.
@@ -145,22 +149,22 @@ Adversarial-based self-supervised representation learning methods utilize genera
 - C-RNN-GAN: Continuous recurrent neural networks with adversarial training, in *arXiv*, 2016. [\[paper\]](https://arxiv.org/abs/1611.09904)
 - Time-series generative adversarial networks, in *NeurIPS*, 2019. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)
 - TTS-GAN: A transformer-based time-series generative adversarial network, in *AIME*, 2022. [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-031-09342-5_13)
-- E2gan: End-to-end generative adversarial network for multivariate time series imputation, in *IJCAI*, 2019.[\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
+- E2gan: End-to-end generative adversarial network for multivariate time series imputation, in *IJCAI*, 2019. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
 - Generating multivariate time series with COmmon Source CoordInated GAN (COSCI-GAN), in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d3408794e41dd23e34634344d662f5e9-Abstract-Conference.html)
 - PSA-GAN: Progressive self attention GANs for synthetic time series, in *ICLR*, 2021. [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w)
 - GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks, in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f03ce573aa8bce26f77b76f1cb9ee979-Abstract-Conference.html)
-- Multivariate time series imputation with generative adversarial networks, in *NeurIPS*, 2018.[\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html)
+- Multivariate time series imputation with generative adversarial networks, in *NeurIPS*, 2018. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html)
 - Generative semi-supervised learning for multivariate time series imputation, in *AAAI*, 2021. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17086)
 
 #### Auxiliary representation enhancement
-- Audibert, J., Michiardi, P., Guyard, F., Marti, S., & Zuluaga, M. A. (2020, August). Usad: Unsupervised anomaly detection on multivariate time series. In Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 3395-3404). [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3394486.3403392)
-- Xu, J., Wu, H., Wang, J., & Long, M. (2021). Anomaly transformer: Time series anomaly detection with association discrepancy. arXiv preprint arXiv:2110.02642. [\[paper\]](https://arxiv.org/abs/2110.02642)
-- Zhu, D., Song, D., Chen, Y., Lumezanu, C., Cheng, W., Zong, B., ... & Chen, H. (2020, April). Deep unsupervised binary coding networks for multivariate time series retrieval. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 02, pp. 1403-1411). [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5497)
-- Ma, Q., Zheng, J., Li, S., & Cottrell, G. W. (2019). Learning representations for time series clustering. Advances in neural information processing systems, 32. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)
-- Wu, S., Xiao, X., Ding, Q., Zhao, P., Wei, Y., & Huang, J. (2020). Adversarial sparse transformer for time series forecasting. Advances in neural information processing systems, 33, 17105-17115. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html?ref=https://githubhelp.com)
-- Li, Y., Wang, H., Li, J., Liu, C., & Tan, J. (2022, July). ACT: Adversarial Convolutional Transformer for Time Series Forecasting. In 2022 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9892791)
-- Zhou, B., Liu, S., Hooi, B., Cheng, X., & Ye, J. (2019, August). Beatgan: Anomalous rhythm detection using adversarially generated time series. In IJCAI (Vol. 2019, pp. 4433-4439). [\[paper\]](https://www.ijcai.org/Proceedings/2019/0616.pdf)
-- Aggarwal, K., Joty, S., Fernandez-Luque, L., & Srivastava, J. (2019, July). Adversarial unsupervised representation learning for activity time-series. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 834-841). [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/download/3870/3748)
+- USAD: Unsupervised anomaly detection on multivariate time series, in *KDD*, 2020. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3394486.3403392)
+- Anomaly transformer: Time series anomaly detection with association discrepancy, in *ICLR*, 2022. [\[paper\]](https://arxiv.org/abs/2110.02642)
+- Deep unsupervised binary coding networks for multivariate time series retrieval, in *AAAI*, 2020. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/5497)
+- Learning representations for time series clustering, in *NeurIPS*, 2019. [\[paper\]](https://proceedings.neurips.cc/paper/2019/hash/1359aa933b48b754a2f54adb688bfa77-Abstract.html)
+- Adversarial sparse transformer for time series forecasting, in *NeurIPS*, 2020. [\[paper\]](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html?ref=https://githubhelp.com)
+- ACT: Adversarial Convolutional Transformer for Time Series Forecasting, in *IJCNN*, 2022. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9892791)
+- BeatGAN: Anomalous rhythm detection using adversarially generated time series, in *IJCAI*, 2019. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0616.pdf)
+- Adversarial unsupervised representation learning for activity time-series, in *AAAI*, 2019. [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/download/3870/3748)
 
 ## Applications and Datasets on SSL4TS
 #### Anomaly Detection
