@@ -132,7 +132,7 @@ Adversarial-based self-supervised representation learning methods utilize genera
 |Weather|52,696|21|*N/A*|[[link]](https://www.bgc-jena.mpg.de/wetter/)|SaIn: 10min|
 |Traffic|17,544|862|*N/A*|[[link]](http://pems.dot.ca.gov/)|SaIn: 1hour|
 |Exchange|7,588|8|[[paper]](https://dl.acm.org/doi/abs/10.1145/3209978.3210006)|[[link]](https://github.com/laiguokun/LSTNet)|SaIn: 1day|
-|Solar|52,560|137|*Non*|[[link]](https://www.nrel.gov/grid/solar-power-data.html)|SaIn: 10min|
+|Solar|52,560|137|*N/A*|[[link]](https://www.nrel.gov/grid/solar-power-data.html)|SaIn: 10min|
 
 #### Classification and Clustering
 |Dataset|Size|Dimension|Source|Link|Comment|
