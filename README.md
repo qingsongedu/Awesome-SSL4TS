@@ -142,15 +142,15 @@ Adversarial-based self-supervised representation learning methods utilize genera
 
 #### Time series generation and imputation
 
-- Mogren, O. (2016). C-RNN-GAN: Continuous recurrent neural networks with adversarial training. arXiv preprint arXiv:1611.09904. [\[paper\]](https://arxiv.org/abs/1611.09904)
-- Yoon, J., Jarrett, D., & Van der Schaar, M. (2019). Time-series generative adversarial networks. Advances in neural information processing systems, 32. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)
-- Li, X., Metsis, V., Wang, H., & Ngu, A. H. H. (2022, June). Tts-gan: A transformer-based time-series generative adversarial network. In International Conference on Artificial Intelligence in Medicine (pp. 133-143). Cham: Springer International Publishing. [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-031-09342-5_13)
-- Luo, Y., Zhang, Y., Cai, X., & Yuan, X. (2019, August). E2gan: End-to-end generative adversarial network for multivariate time series imputation. In Proceedings of the 28th international joint conference on artificial intelligence (pp. 3094-3100). Palo Alto, CA, USA: AAAI Press. [\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
-- Seyfi, Ali, Jean-Francois Rajotte, and Raymond Ng. "Generating multivariate time series with COmmon Source CoordInated GAN (COSCI-GAN)." Advances in Neural Information Processing Systems 35 (2022): 32777-32788. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d3408794e41dd23e34634344d662f5e9-Abstract-Conference.html)
-- Jeha, P., Bohlke-Schneider, M., Mercado, P., Kapoor, S., Nirwan, R. S., Flunkert, V., ... & Januschowski, T. (2021, October). PSA-GAN: Progressive self attention GANs for synthetic time series. In International Conference on Learning Representations. [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w)
-- Jeon, J., Kim, J., Song, H., Cho, S., & Park, N. (2022). GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks. Advances in Neural Information Processing Systems, 35, 36999-37010. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f03ce573aa8bce26f77b76f1cb9ee979-Abstract-Conference.html)
-- Luo, Y., Cai, X., Zhang, Y., & Xu, J. (2018). Multivariate time series imputation with generative adversarial networks. Advances in neural information processing systems, 31. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html)
-- Miao, X., Wu, Y., Wang, J., Gao, Y., Mao, X., & Yin, J. (2021, May). Generative semi-supervised learning for multivariate time series imputation. In Proceedings of the AAAI conference on artificial intelligence (Vol. 35, No. 10, pp. 8983-8991). [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17086)
+- C-RNN-GAN: Continuous recurrent neural networks with adversarial training, in *arXiv*, 2016. [\[paper\]](https://arxiv.org/abs/1611.09904)
+- Time-series generative adversarial networks, in *NeurIPS*, 2019. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)
+- TTS-GAN: A transformer-based time-series generative adversarial network, in *AIME*, 2022. [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-031-09342-5_13)
+- E2gan: End-to-end generative adversarial network for multivariate time series imputation, in *IJCAI*, 2019.[\[paper\]](https://www.ijcai.org/Proceedings/2019/0429.pdf)
+- Generating multivariate time series with COmmon Source CoordInated GAN (COSCI-GAN), in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d3408794e41dd23e34634344d662f5e9-Abstract-Conference.html)
+- PSA-GAN: Progressive self attention GANs for synthetic time series, in *ICLR*, 2021. [\[paper\]](https://openreview.net/forum?id=Ix_mh42xq5w)
+- GT-GAN: General Purpose Time Series Synthesis with Generative Adversarial Networks, in *NeurIPS*, 2022. [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f03ce573aa8bce26f77b76f1cb9ee979-Abstract-Conference.html)
+- Multivariate time series imputation with generative adversarial networks, in *NeurIPS*, 2018.[\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2018/hash/96b9bff013acedfb1d140579e2fbeb63-Abstract.html)
+- Generative semi-supervised learning for multivariate time series imputation, in *AAAI*, 2021. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17086)
 
 #### Auxiliary representation enhancement
 - Audibert, J., Michiardi, P., Guyard, F., Marti, S., & Zuluaga, M. A. (2020, August). Usad: Unsupervised anomaly detection on multivariate time series. In Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining (pp. 3395-3404). [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3394486.3403392)
