@@ -26,7 +26,7 @@ Kexin Zhang, [Qingsong Wen](https://sites.google.com/site/qingsongwen8/), Chaoli
 ```bibtex
 @article{zhang2023ssl4ts,
   title={Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects},
-  author={Kexin Zhang and Qingsong Wen and Chaoli Zhang and Rongyao Cai and Ming Jin and Yong Liu and James Zhang and Yuxuan Liang and Guansong Pang and Dongjin Song and Shirui Pan}
+  author={Kexin Zhang and Qingsong Wen and Chaoli Zhang and Rongyao Cai and Ming Jin and Yong Liu and James Zhang and Yuxuan Liang and Guansong Pang and Dongjin Song and Shirui Pan},
   journal={arXiv preprint arXiv:2306.10125},
   year={2023}
 }
