@@ -218,6 +218,7 @@ Adversarial-based self-supervised representation learning methods utilize genera
 ## Self-Supervised Learning Tutorial/Survey in Other Disciplines
 * A cookbook of self-supervised learning, in *arXiv* 2023. [\[paper\]](https://arxiv.org/abs/2304.12210)
 * Self-supervised Learning: Generative or Contrastive, in *TKDE* 2021. [\[paper\]](https://arxiv.org/abs/2006.08218)
+* A Survey on Self-Supervised Learning for Non-Sequential Tabular Data, in *arXiv* 2024. [\[paper\]](https://arxiv.org/abs/2402.01204)
 
 
 
