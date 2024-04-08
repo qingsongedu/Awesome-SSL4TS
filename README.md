@@ -81,6 +81,7 @@ In this category, the pretext task is to generate the expected data based on a g
 - Deep variational graph convolutional recurrent network for multivariate time series anomaly detection, in *ICML*, 2022. [\[paper\]](https://proceedings.mlr.press/v162/chen22x.html)
 - Heteroscedastic temporal variational autoencoder for irregularly sampled time series, in *ICLR*, 2022. [\[paper\]](https://openreview.net/forum?id=Az7opqbQE-3)
 - Learning from irregularly-sampled time series: A missing data perspective, in *ICML*, 2020. [\[paper\]](https://arxiv.org/abs/2008.07599)
+- TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2303.00320) [\[code\]](https://github.com/mingyue-cheng/timemae)
 
 #### Diffusion-based generation
 
@@ -90,8 +91,9 @@ In this category, the pretext task is to generate the expected data based on a g
 - ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2307.00754)
 - Diffusion-based time series imputation and forecasting with structured state space models, in *Transactions on Machine Learning Research*, 2022. [\[paper\]](https://openreview.net/forum?id=hHiIbk7ApW)
 - Diffload: Uncertainty quantification in load forecasting with diffusion model, in arXiv, 2023. [\[paper\]](https://arxiv.org/abs/2306.01001)
-- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2301.13629)
-
+- DiffSTG: Probabilistic spatio-temporal graph forecasting with denoising diffusion models, in *SIGSPATIAL*, 2023. [\[paper\]](https://arxiv.org/abs/2301.13629)
+- PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, in *ICDE*, 2024. [\[paper\]](https://arxiv.org/abs/2302.09746) [\[code\]](https://github.com/LMZZML/PriSTI)
+ 
 
 
 ### Contrastive-based Methods on SSL4TS
