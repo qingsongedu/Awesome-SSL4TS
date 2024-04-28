@@ -115,6 +115,7 @@ Contrastive learning is a widely used self-supervised learning strategy, showing
 - Self-supervised contrastive representation learning for semi-supervised time-series classification, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2208.06616)
 
 
+
 #### Augmentation contrast
 - TS2Vec: Towards universal representation of time series, in *AAAI*, 2022. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/20881)
 - CoST: Contrastive learning of disentangled seasonal-trend representations for time series forecasting, in *ICLR*, 2022. [\[paper\]](https://arxiv.org/abs/2202.01575)
@@ -130,6 +131,8 @@ Contrastive learning is a widely used self-supervised learning strategy, showing
 - DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection, in *arXiv*, 2023. [\[paper\]](https://arxiv.org/abs/2306.10347)
 - Time-series representation learning via temporal and contextual contrasting, in *IJCAI*, 2021. [\[paper\]](https://www.ijcai.org/proceedings/2021/324)
 - Self-supervised contrastive representation learning for semi-supervised time-series classification, in *arXiv*, 2022. [\[paper\]](https://arxiv.org/abs/2208.06616)
+- Intra-Inter Subject Self-Supervised Learning for Multivariate Cardiac Signals, in *AAAI*, 2022. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/20376)
+- Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach, in *ICLR*, 2024. [\[paper\]](https://openreview.net/pdf?id=K2c04ulKXn)
 
 #### Prototype contrast
 - Shapenet: A shapelet-neural network approach for multivariate time series classification, in *AAAI*, 2021. [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
